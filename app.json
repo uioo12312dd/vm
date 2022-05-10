@@ -1,0 +1,18 @@
+{
+    "name": "V2Ray",
+    "description": "Deploy V2ray on Heroku.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "edba995c-5d54-4cc5-b011-d978e71ba1a7"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "website": "https://github.com/uioo12312dd/vm/",
+    "repository": "https://github.com/uioo12312dd/vm",
+    "stack": "container"
+}
